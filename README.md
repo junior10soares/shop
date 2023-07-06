@@ -1,9 +1,5 @@
 # shop
 
-- Enviar o carrinho que você armazenou na aplicação para a rota de checkout, onde irá gerar a sessão de checkout com os ``line_items`` necessários.
-
-- # shop
-
 # Sobre o projeto
 
 Shop é uma aplicação full frontend web onde possui uma lista de camisas para venda podendo adicionar ou remover do carrinho através da API do Stripe para buscar os itens existentes, e controlará, através da sua aplicação, o número de itens que a pessoa deseja comprar.
